@@ -1,0 +1,1 @@
+C:\Users\denni\OneDrive\Desktop\BA_WebAssembly\training\Rust\rustwasmhello\target\wasm32-unknown-unknown\debug\rustwasmhello.wasm: C:\Users\denni\OneDrive\Desktop\BA_WebAssembly\training\Rust\rustwasmhello\src\lib.rs
