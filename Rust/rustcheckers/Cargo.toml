@@ -1,0 +1,9 @@
+[package]
+name = "rustwasmhello"
+version = "0.1.0"
+authors = ["Dennis Glowacki <de.glowacki@ostfalia.de>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
